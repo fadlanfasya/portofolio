@@ -1,0 +1,85 @@
+ [  
+    { "id":"1",
+        "title":"Crown clothing",
+        "description":" Crown Clothing is a responsive e-commerce web application where users can browse over several products, create and login into their own account, go through the payment process, and more.",
+        "url":"https://thecrownshop.herokuapp.com/",
+        "github":"https://github.com/MeryemBa/crownClothing",
+        "image":"./images/crownClothing.png",
+        "technology":[
+            "React Js",
+            "Redux (Redux Thunk)",
+            "Styled-Component",
+            "Firebase",
+            "Node Js",
+            "Express",
+            "MailChimp",
+            "Stripe",
+            "PWA"
+        ]
+    },
+ 
+    {
+     "id":"2",
+    "title":"WILD PIG TRACKER",
+    "description":"   Wild Pig Tracker is an interactive map that marks the location of your last encounter with a boar. Users can easily create a mark on this map by using their geolocation and they can read all the pre-existing information to take precautions.",
+    "url":"https://wild-pig-tracker.meryembarroug.vercel.app/",
+    "github":"https://github.com/MeryemBa/wildPigTracker",
+    "image":"./images/wildPigTracker.png",
+    "technology":[
+        "Next js",
+        "MongoDB",
+        "MapBox",
+        "React-map-gl",
+        "PWA"
+        
+    ]
+    },
+    {
+        "id":"5",
+       "title":"Portfolio",
+       "description":"My personal website to showcase my projects.",
+       "url":"http://meryembarroug.netlify.app/",
+       "github":"https://github.com/MeryemBa/portofolio",
+       "image":"./images/portfolio.png",
+       "technology":[
+           "Gatsby",
+           "Sass",
+           "Gsap",
+           "Scrollreveal",
+           "PWA"
+           
+       ]
+       },
+      
+   
+    {
+        "id":"3",
+       "title":"GOOGLE KEEP CLONE",
+       "description":"This project is a clone of the front-end part of a Google keep. This application allows users to create, delete, archive, or simply mark a note as completed when the task is finished and more. Users also are free to choose their preferable theme.",
+       "url":"https://mygoogle-keep-clone.netlify.app/",
+       "github":"https://github.com/MeryemBa/google-keep-clone",
+       "image":"./images/googleKeep.png",
+       "technology":[
+        "React js",
+        "React Hooks",
+        "Context API",
+        "React router",
+        "Material UI"
+       ]
+   },
+   
+   {
+    "id":"4",
+   "title":"Base Apparel",
+   "description":"Base Apparel is the front end of a newsletter landing page where I developed an email verification.",
+   "url":"https://meryemba.github.io/base-apparel/",
+   "github":"https://github.com/MeryemBa/base-apparel",
+   "image":"./images/baseAppare.png",
+   "technology":[
+       "Html",
+    "Sass",
+    "GSAP",
+    "Gulp.js"
+   ]
+}
+]

@@ -1,0 +1,18 @@
+#work {
+  min-height: 100vh;
+
+  padding: 50px 0;
+
+  & .title {
+    margin-bottom: 50px;
+  }
+  & .projects_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  @media screen and (max-width: 800px) {
+    padding-top: 50px;
+  }
+}

@@ -1,0 +1,38 @@
+#contact {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  & p {
+    padding: 1.5rem;
+
+    margin: 10px 0;
+  }
+  & div {
+    width: 75%;
+    & .btn_container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      width: 100%;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    padding: 1rem;
+    & div {
+      width: 100%;
+    }
+    & p {
+      padding: 0;
+      margin: 10px 0;
+    }
+    & .btn {
+      max-width: 200px;
+      padding: 15px 20px;
+    }
+  }
+}
